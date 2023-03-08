@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+    - shivam-199
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+    - shivam-199/Python-Emotion-using-EEG-Signal
+    - shivam-199/Drumming-EEG-Expt-Psychopy

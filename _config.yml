@@ -40,7 +40,7 @@ repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -72,10 +72,10 @@ twitter_username: #ShivamCY
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: shivam199
 telegram_username: # your Telegram user name
-scholar_userid: wfDQMccAAAAJ # your Google Scholar ID
+scholar_userid: #wfDQMccAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0002-3531-083X # your ORCID ID
+orcid_id: #0000-0002-3531-083X # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -88,7 +88,7 @@ wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: #https://dblp.org/pid/327/1752.html # your DBLP profile url
 stackoverflow_id: #10666873/shivam-chaudhary # your stackoverflow id
-kaggle_id: shivam199 # your kaggle id
+kaggle_id: #shivam199 # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
@@ -99,7 +99,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note:
-    Reach out to me on Email, LinkedIn, or Twitter!
+    Reach out to me for questions regarding my work or collaborations!
     #You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
