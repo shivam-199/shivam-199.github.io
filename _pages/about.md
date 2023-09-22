@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Engineer at <a href='[https://cogs.iitgn.ac.in/](https://neuralengatberkeley.github.io/)' target='_blank'>UC Berkeley EECS, Khanna Lab</a> | shivamc@berkeley.edu
+subtitle: Research Engineer at <a href='https://neuralengatberkeley.github.io/' target='_blank'>UC Berkeley EECS, Khanna Lab</a> | shivamc@berkeley.edu
 
 profile:
     align: right
