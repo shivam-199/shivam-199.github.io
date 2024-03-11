@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Shivam Chaudhary | UC Berkeley | Neural Engineering # the website title (if blank, full name will be used instead)
 first_name: Shivam
 middle_name:
 last_name: Chaudhary
-email: shivamchaudhary@iitgn.ac.in
+email: shivamc@berkeley.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
     Research and Development Engineer working in brain-computer interfaces on non-human primates at the University of California Berkeley with Prof. Preeya Khanna.
 footer_text: >
