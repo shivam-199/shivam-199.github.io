@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Shivam Chaudhary | UC Berkeley | Neural Engineering # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Shivam
 middle_name:
 last_name: Chaudhary
