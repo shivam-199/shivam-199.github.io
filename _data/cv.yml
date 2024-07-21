@@ -31,6 +31,12 @@
 - title: Experience
   type: time_table
   contents:
+      - title: Research and Development Engineer
+        institution: University of California Berkeley
+        year: Sept 2023 - Present
+        description:
+            - Working under the guidance of Prof. Preeya Khanna at UC Berkeley to determine neural correlates of hand dexterity and invasive BCIs on non-human primates.
+  
       - title: Research Intern
         institution: Delft University of Technology, Netherlands | Indian Institute of Technology Gandhinagar
         year: Apr - Jun 2022
