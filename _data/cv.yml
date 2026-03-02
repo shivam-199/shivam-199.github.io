@@ -11,6 +11,13 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD Biomedical Engineering
+        institution: Brown University, Rhode Island, USA
+        year: 2026
+        description:
+            - Coursework consists of Neuroscience,Signal Processing, Engineering Mathematics, Analog Systems, etc.
+            - Understanding volitional control of locomotion in rhesus macaques.
+            
       - title: MSc Cognitive Science
         institution: Indian Institute of Technology Gandhinagar, Gujarat, India
         year: 2023
@@ -31,6 +38,12 @@
 - title: Experience
   type: time_table
   contents:
+      - title: Research Associate
+        institution: Brown University
+        year: Nov 2025 - Present
+        description:
+            - Working with Professor David Borton and Wilson Truccolo to understand volitional control of locomotion in rhesus macaques.
+      
       - title: Research and Development Engineer
         institution: University of California Berkeley
         year: Sept 2023 - Present
